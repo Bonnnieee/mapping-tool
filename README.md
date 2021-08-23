@@ -1,4 +1,4 @@
-# mapping tool - City history and its urban texture
+# Mapping tool - City history and its urban texture
 
 ## Description
 The history and relics of a city and the cultural and political influence brought by them become part of the urban texture, making each city unique. Study the history of the city and its connection with the modern city to observe the impact of the cultural background on citizens in modern life.
