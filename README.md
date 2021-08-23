@@ -7,9 +7,10 @@ This is a file based on grasshopper. It takes some urban component related to ci
 
 ## Example
 
-Overview:
+### Overview:
 ![overview](https://user-images.githubusercontent.com/88953049/130400550-82e7ea40-f262-4a9b-b8e7-34364dc24cda.JPG)
-#Legend
+#### Legend
+
 Yellow bubbles:  Historical Buidlings
 
 Blue bubbles:    Schools
@@ -20,8 +21,8 @@ Green grids:     Park Density
 
 Orange dots:     Residential Area
 
-Detail 1:
+### Detail 1:
 ![1](https://user-images.githubusercontent.com/88953049/130400560-c6ed95d2-32d5-47c1-9cb8-73cede3e8189.JPG)
 
-Detail 2:
+### Detail 2:
 ![2](https://user-images.githubusercontent.com/88953049/130400572-1c9485ea-882b-4e8b-b502-c4ee81aa51ef.JPG)
