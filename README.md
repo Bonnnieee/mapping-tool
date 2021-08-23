@@ -24,5 +24,9 @@ Orange dots:     Residential Area
 ### Detail 1:
 ![1](https://user-images.githubusercontent.com/88953049/130400560-c6ed95d2-32d5-47c1-9cb8-73cede3e8189.JPG)
 
+Through overlay these information, you can see the relation between historical buildings in a city and other city component that link to the recreation and education. For the initial version, I choose Residential and Parks to represent locations of common recreational activities; School to represent education location. 
+
 ### Detail 2:
 ![2](https://user-images.githubusercontent.com/88953049/130400572-1c9485ea-882b-4e8b-b502-c4ee81aa51ef.JPG)
+
+For future development I will bring more relevant components for users to choose, and make sure the tool will works with some of them.
