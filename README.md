@@ -10,10 +10,14 @@ This is a file based on grasshopper. It takes some urban component related to ci
 Overview:
 ![overview](https://user-images.githubusercontent.com/88953049/130400550-82e7ea40-f262-4a9b-b8e7-34364dc24cda.JPG)
 #Legend
-Yellow bubbles:  Historical Buildings
+Yellow bubbles:  Historical Buidlings
+
 Blue bubbles:    Schools
+
 Blue lines:      200m From Schools to Buildings
+
 Green grids:     Park Density
+
 Orange dots:     Residential Area
 
 Detail 1:
