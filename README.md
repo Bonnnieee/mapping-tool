@@ -30,3 +30,10 @@ Through overlay these information, you can see the relation between historical b
 ![2](https://user-images.githubusercontent.com/88953049/130400572-1c9485ea-882b-4e8b-b502-c4ee81aa51ef.JPG)
 
 For future development I will bring more relevant components for users to choose, and make sure the tool will works with some of them.
+
+## Future Development Direction
+
+
+
+## Appendix
+Please check the development log on Notion by link: <https://www.notion.so/3635634-Log-Bonnie-Zhang-4a6312dd05b04ed58b375f379b4b2d1c>.
