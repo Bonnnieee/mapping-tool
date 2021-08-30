@@ -5,6 +5,11 @@ The history and relics of a city and the cultural and political influence brough
 
 This is a file based on grasshopper. It takes some urban component related to city history and common urban elements like residential buildings and parks, to discover the historical influence to urban planning by integrating the information of the chosen site and present the site analysis in a effective and clear way.
 
+## How to use
+1. Insert your own OSM file in to the *File Path* at top left corner.
+2. You can change the number slider that highlighted with yellow panel notes to make it fit your map.
+3. Map done!
+
 ## Example
 
 ### Overview:
@@ -25,7 +30,7 @@ The blue lines shows the distance <200m between schools and historical buildings
 
 In summary, the history of Copenhagen is an important part the city, many historical site are preserved. At the same time it has many intersections with people's lives, which has enriched the city's cultural background. The history also largely involved in the education of children, to keep the inheritance.
 
-## Future Development Direction
+## Future Development Direction after v0.65
 
 For future development, will bring more components that related to urban planning to get more comprehensive information for analysing, and refine the historical elements that show on map.
 
