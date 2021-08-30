@@ -8,32 +8,26 @@ This is a file based on grasshopper. It takes some urban component related to ci
 ## Example
 
 ### Overview:
-![overview](https://user-images.githubusercontent.com/88953049/130400550-82e7ea40-f262-4a9b-b8e7-34364dc24cda.JPG)
-#### Legend
+![overview 2](https://user-images.githubusercontent.com/88953049/131293310-743cb287-9f63-4f39-8876-3e871aea0816.JPG)
+![3](https://user-images.githubusercontent.com/88953049/131293326-870f49b2-9ae6-46e4-849f-5867ea49ef02.JPG)
 
-Yellow bubbles:  Historical Buidlings
-
-Blue bubbles:    Schools
-
-Blue lines:      200m From Schools to Buildings
-
-Green grids:     Park Density
-
-Orange dots:     Residential Area
+This example shows the relation between historical buildings in Copenhagen and citizen that link to the recreation and education. For the initial version, I choose Residential and Parks to represent locations of common recreational activities; School to represent education location. 
 
 ### Detail 1:
 ![1](https://user-images.githubusercontent.com/88953049/130400560-c6ed95d2-32d5-47c1-9cb8-73cede3e8189.JPG)
 
-Through overlay these information, you can see the relation between historical buildings in a city and other city component that link to the recreation and education. For the initial version, I choose Residential and Parks to represent locations of common recreational activities; School to represent education location. 
+ From the map, historical buildings are mainly distributed in the southeast, while residential areas are mainly distributed in the west. However, most of them close to schools and some of them overlaps with parks, the historcial buildings have a strong connection with the activity area.
 
 ### Detail 2:
 ![2](https://user-images.githubusercontent.com/88953049/130400572-1c9485ea-882b-4e8b-b502-c4ee81aa51ef.JPG)
 
-For future development I will bring more relevant components for users to choose, and make sure the tool will works with some of them.
+The blue lines shows the distance <200m between schools and historical buildings, it is quite convenient to achieve these historical site for people in school gathering area.
+
+In summary, the history of Copenhagen is an important part the city, many historical site are preserved. At the same time it has many intersections with people's lives, which has enriched the city's cultural background. The history also largely involved in the education of children, to keep the inheritance.
 
 ## Future Development Direction
 
-
+For future development, will bring more components that related to urban planning to get more comprehensive information for analysing, and refine the historical elements that show on map.
 
 ## Appendix
 Please check the development log on Notion by link: <https://www.notion.so/3635634-Log-Bonnie-Zhang-4a6312dd05b04ed58b375f379b4b2d1c>.
