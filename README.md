@@ -1,9 +1,12 @@
 # Mapping tool - City history and its urban texture
 
 ## Description
-The history and relics of a city and the cultural and political influence brought by them become part of the urban texture, making each city unique. This mapping tool studied the history of the city and its connection with the modern city to observe the impact of the cultural background on citizens in modern life(recreational or educational), and analyse how does history impact on the urban planning.
+As a normal person living in a developed city, it is usually difficult to feel the inconvenience in life, but the disabled often face many problems during living in the modern city. For example, if there is no disabled path/slope for wheelchairs to pass, the disabled cannot enter the building or an area through the stairs. The extent of the convenience provided by the city for the disabled reflects a city's inclusiveness for the disabled. This tool studied this topic and provide direction for the development of the city in future.
+
 
 This is a file based on grasshopper. It takes some urban component related to city history and common urban elements like residential buildings and parks, to discover the historical influence to urban planning by integrating the information of the chosen site and present the site analysis in a effective and clear way.
+
+
 
 ## How to use
 1. Insert your own OSM file in to the *File Path* at top left corner.
