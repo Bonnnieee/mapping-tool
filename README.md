@@ -8,7 +8,7 @@ This tool considered the residents who use wheelchairs and wheelchair users from
 
 For example: Residential area-Transport station-Public openspace (residents who use wheelchair); Hotel-Transport station-Historical building (visitors who use wheelchair).
 
-This tool also have a slider control time, that can help find out the issue in urban planning and predict the development of the city. 
+Based on the idea of the wheelchair facilities will increase in city over time, this tool also have a slider control time,that can help find out the issue in urban planning and predict the development of the city. 
 
 This is a file based on grasshopper, integrated the information of the chosen site and present the site analysis in a effective and clear way.You may need to download your city map form Open Street Map and intsert to run the program.
 
