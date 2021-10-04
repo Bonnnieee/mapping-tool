@@ -1,4 +1,4 @@
-# Mapping tool - City history and its urban texture
+# Mapping tool - Wheelchair users travel in city and the urban development direction
 
 ## Description
 As a normal person living in a developed city, it is usually difficult to feel the inconvenience in life, but the wheelchair users often face many problems during living in the modern city. For example, if there is no disabled path/slope for wheelchairs to pass, the wheelchair users cannot enter the building or an area through the stairs. The extent of the convenience provided by the city for the wheelchair users reflects a city's inclusiveness for the disabled. This tool studied this topic and provide direction for the development of the city in future.
