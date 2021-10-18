@@ -25,8 +25,6 @@ Here takes Marseille as an example to run this program.
 ### Overview:
 A note befor showing the example: Legend is on the left of the original panel, in case it's hard to find when insert a large city map.
 
-![rm4](https://user-images.githubusercontent.com/88953049/135787633-d83b5de0-a772-47ac-bdf6-b1dfd1300159.JPG)
-
 ![rm8](https://user-images.githubusercontent.com/88953049/135787590-46c4d898-cac8-4273-ad82-45187406bb8d.JPG)
 ![rm9](https://user-images.githubusercontent.com/88953049/135787579-6663dce6-f637-49ef-b9bd-44c855a4f47c.JPG)
 ![rm10](https://user-images.githubusercontent.com/88953049/135787601-1645b4bf-754b-40a8-9673-fb62a4f1f726.JPG)
@@ -34,9 +32,9 @@ A note befor showing the example: Legend is on the left of the original panel, i
 
 The following three screenshots show the map changing over time, with connection lines on. 
 
-![rm1](https://user-images.githubusercontent.com/88953049/135784806-11319be1-765b-4044-9cd5-6698a6a4d362.JPG)
-![rm2](https://user-images.githubusercontent.com/88953049/135784809-beb478db-59aa-47ae-a38c-8c47148d137c.JPG)
-![rm3](https://user-images.githubusercontent.com/88953049/135784820-cddac7d5-2061-4f47-8f3c-afec605ee655.JPG)
+![10](https://user-images.githubusercontent.com/88953049/137729126-48715354-5054-4dff-992a-921f518ba8be.JPG)
+![50](https://user-images.githubusercontent.com/88953049/137729144-832e63f9-e94a-4467-b4f0-01f3d88d5e0d.JPG)
+![80](https://user-images.githubusercontent.com/88953049/137729150-d8166663-3bc1-4bd9-a591-caa4390a0ee5.JPG)
 
 The yellow and green lines are the connection between tranport stations and destinations (Historical buildings and Public openspaces) with wheelchair facilities (detail annotions are in GH file). More lines represent more options for wheelchair users. You can only check the connection between starting points (Residential area, school, hotel and hospital) and transport stations by turn off the preview in red rectangle in below.
 
@@ -45,9 +43,9 @@ The yellow and green lines are the connection between tranport stations and dest
 ### Detail 1:
 The following three screenshots show the map changing over time, with the connection lines off. This provides a clearer version of the travel options for wheelchair users.
 
-![rm5](https://user-images.githubusercontent.com/88953049/135784965-5281f287-3c71-479a-acbf-785e959c872b.JPG)
-![rm6](https://user-images.githubusercontent.com/88953049/135784970-f4e28e05-5807-4ad3-8ade-8c2b121dc81f.JPG)
-![rm7](https://user-images.githubusercontent.com/88953049/135784972-d1c9d494-3e0d-42f0-9eee-dcf8e6f3c807.JPG)
+![10 1](https://user-images.githubusercontent.com/88953049/137729243-689d7625-3d49-44ff-b9fb-474772949429.JPG)
+![50 1](https://user-images.githubusercontent.com/88953049/137729249-e13ddbdd-651b-4b18-98f3-8ac373ae0cca.JPG)
+![80 1](https://user-images.githubusercontent.com/88953049/137729253-51a0d882-4961-4dfd-82da-d909ee2cfdf5.JPG)
 
 ### Detail 2:
 The tool also provide charts to track the change over time.
